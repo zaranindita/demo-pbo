@@ -1,5 +1,4 @@
-package com.kidaro.kael.model;
-
+package com.kiyotaka.pbo_mudah.model;
 import jakarta.persistence.*;
 
 @Entity
@@ -29,3 +28,5 @@ public class Note {
         this.content = content;
     }
 }
+
+
